@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3"
+  },
+  "scripts": {
+    "ai:gen": "npx playwright generate --seed=tests/seed.spec.ts",
+    "ai:heal": "npx playwright heal --seed=tests/seed.spec.ts"
+  }
+}

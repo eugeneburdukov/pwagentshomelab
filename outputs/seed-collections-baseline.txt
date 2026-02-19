@@ -1,0 +1,121 @@
+JELLYFIN MOVIE COLLECTIONS
+=========================
+Generated on: 2026-02-19T21:33:40.833Z
+Total Collections: 38
+
+1. Addams Family Collection
+   Contains: 1 item
+
+2. Avatar Collection
+   Contains: 2 items
+
+3. Back to the Future Collection
+   Contains: 2 items
+
+4. Batman Collection
+   Contains: 4 items
+
+5. The Dark Knight Collection
+   Contains: 3 items
+
+6. Dune Collection
+   Contains: 2 items
+
+7. Fifty Shades Collection
+   Contains: 2 items
+
+8. Gladiator Collection
+   Contains: 2 items
+
+9. The Hannibal Lecter Collection
+   Contains: 3 items
+
+10. Harry Potter Collection
+   Contains: 1 item
+
+11. The Hobbit Collection
+   Contains: 3 items
+
+12. Home Alone Collection
+   Contains: 2 items
+
+13. The Hunger Games Collection
+   Contains: 4 items
+
+14. Indiana Jones Collection
+   Contains: 5 items
+
+15. It Collection
+   Contains: Items count unknown
+
+16. James Bond Collection
+   Contains: 5 items
+
+17. John Wick Collection
+   Contains: 4 items
+
+18. Kill Bill Collection
+   Contains: 2 items
+
+19. Knives Out Collection
+   Contains: 3 items
+
+20. Lethal Weapon Collection
+   Contains: 3 items
+
+21. The Lord of the Rings Collection
+   Contains: 3 items
+
+22. Man of Steel Collection
+   Contains: 2 items
+
+23. The Matrix Collection
+   Contains: 3 items
+
+24. Men in Black Collection
+   Contains: Items count unknown
+
+25. Mission: Impossible Collection
+   Contains: 7 items
+
+26. The Mummy Collection
+   Contains: 2 items
+
+27. Naked Gun Collection
+   Contains: 3 items
+
+28. National Treasure Collection
+   Contains: 2 items
+
+29. Nobody Collection
+   Contains: Items count unknown
+
+30. Police Academy Collection
+   Contains: 3 items
+
+31. Robert Langdon Collection
+   Contains: Items count unknown
+
+32. Shrek Collection
+   Contains: 4 items
+
+33. Spider-Man Collection
+   Contains: 3 items
+
+34. Star Wars Collection
+   Contains: 2 items
+
+35. Teenage Mutant Ninja Turtles Collection
+   Contains: 3 items
+
+36. The Terminator Collection
+   Contains: 3 items
+
+37. Transformers Collection
+   Contains: 2 items
+
+38. The Twilight Collection
+   Contains: 5 items
+
+---
+Total Collections Listed: 38
