@@ -9,23 +9,28 @@ This project provides end-to-end test automation for a home lab setup running:
 - **Jellyfin**: Open-source media server
 - **JellyStat**: Jellyfin statistics and analytics dashboard
 
+## 📂 Project Structure
+
+A modular Playwright architecture designed for automated dashboard interactions and media server management.
+
+```text
 pwagentshomelab/
 ├── tests/
 │   ├── config/
 │   │   └── credentials.ts          # Centralized credential management
-│   ├── pages/
-│   │   ├── casaOSPage.ts          # CasaOS dashboard interactions
-│   │   ├── jellyfinPage.ts        # Jellyfin media server
-│   │   └── collectionsPage.ts     # Jellyfin collections management
+│   ├── pages/                      # Page Object Model (POM) layer
+│   │   ├── casaOSPage.ts           # CasaOS dashboard interactions
+│   │   ├── jellyfinPage.ts         # Jellyfin media server
+│   │   └── collectionsPage.ts      # Jellyfin collections management
 │   ├── auth-success.spec.ts        # Basic authentication tests
 │   ├── dashboard-jellyfin.spec.ts  # Jellyfin integration tests
-│   ├── open-jellystat.spec.ts     # JellyStat dashboard tests
-│   └── seed.spec.ts              # Environment validation suite
-├── outputs/                       # Generated screenshots and exports
-├── docs/                         # Documentation
-├── specs/                        # Test plans and specifications
-├── playwright.config.ts          # Playwright configuration
-└── .env.example                  # Environment variables template
+│   ├── open-jellystat.spec.ts      # JellyStat dashboard tests
+│   └── seed.spec.ts                # Environment validation suite
+├── outputs/                        # Generated screenshots and test artifacts
+├── docs/                           # Technical documentation
+├── specs/                          # Test plans and functional specs
+├── playwright.config.ts            # Playwright engine configuration
+└── .env.example                    # Template for secrets (CasaOS/Jellyfin creds)
 
 ### Key Features
 - ✅ **Complete CasaOS Integration**: Authentication, dashboard navigation, application launching
@@ -53,6 +58,19 @@ npm install
 
 # Install Playwright browsers
 npx playwright install
+
+= = = = =
+1. Update VSCode to latest version 1.105 +
+2. Playwright needs to be updated 1.56.0 + 
+npm install -D @playwright/test@latest
+3. You can also follow docs at: https://playwright.dev/docs/test-agents
+4. Install playwright or updated to the latest
+npm init playwright@latest
+5. Install agents with: npx playwright init-agents --loop=vscode
+6. Under .GitHub - chatmodes - all installed agents located
+7. Under .vscode - mcp.json generated config for MCP agent run instructions
+= = = = =
+
 
 Useful Commands
 
