@@ -187,3 +187,6 @@ npx playwright test tests/dashboard-jellyfin.spec.ts
 npm run test:auth
 # or 
 npx playwright test tests/auth-success.spec.ts
+
+#Using AI Generator
+Use Playwright MCP to navigate to http://192.168.1.231, log in with credentials in my .env file, and generate a test file that verifies the dashboard loads.

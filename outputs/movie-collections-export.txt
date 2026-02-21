@@ -1,6 +1,6 @@
 JELLYFIN MOVIE COLLECTIONS
 =========================
-Generated on: 2026-02-19T21:33:21.778Z
+Generated on: 2026-02-21T12:03:56.142Z
 Total Collections: 38
 
 1. Addams Family Collection
